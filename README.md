@@ -35,3 +35,7 @@ The dataset contains 7,043 customer records with information about:
 
 ## Dashboard
 The Tableau dashboard provides an interactive view of customer churn patterns and risk segments.
+
+### Tableau Dashboard Preview
+
+![Customer Churn Analysis Dashboard](Dashboard.png)
